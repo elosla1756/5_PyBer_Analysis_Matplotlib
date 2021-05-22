@@ -11,7 +11,7 @@
 1. The first part of the analysis was focused on summarizing all data by city type. Using the groupby(), count() and sum() functions, we developed the below dataframe:
 
 ADD pyber_summary_DF.png
-![Pyber summary](Resources/pyber_summary_DF.png)
+![Pyber summary](Analysis/pyber_summary_DF.png)
 
 ### Only 5% of the total rides took place in Rural cities, but the average fare per ride in Rural cities was $34.62, or 41% higher than in Urban cities, and the average fare per driver in Rural cities was $55.49, or 235% higher than in Urban cities.
 ### 63% of the total fare revenues came from Urban cities for a total of $39,854, with a total of 1,625 rides. However, 81% of the total drivers were located in Urban cities, which drove down the average fare per driver to $16.57. 
@@ -20,9 +20,9 @@ ADD pyber_summary_DF.png
 2. The second part of the analysis was focused on summarizing the data by date, and specifically by week, for the period of January 1, 2019 through April 29, 2019. Using the pivot() and resample() functions, we were able to create a multiple-line graph that showed the total fares for each week by city type.
 
 
-![January to April Pyber summary](Resources/Jan_Apr_pyber_summary.png)
+![January to April Pyber summary](Analysis/Jan_Apr_pyber_summary.png)
 
-![Graph Chart Pyber summary](Resources/pyber_fare_summary.png)
+![Graph Chart Pyber summary](Analysis/pyber_fare_summary.png)
 
 ## **Analysis summary**:
 
