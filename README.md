@@ -14,7 +14,7 @@
 
 ### Only 5% of the total rides took place in Rural cities, but the average fare per ride in Rural cities was $34.62, or 41% higher than in Urban cities, and the average fare per driver in Rural cities was $55.49, or 235% higher than in Urban cities.
 ### 63% of the total fare revenues came from Urban cities for a total of $39,854, with a total of 1,625 rides. However, 81% of the total drivers were located in Urban cities, which drove down the average fare per driver to $16.57. 
-### With a total of 625 rides and 490 drivers in Suburban cities, the average fare per ride was $30.90, and the average fare per driver was $39.50 (2.4 time higher than in Urban cities). 
+### With a total of 625 rides and 490 drivers in Suburban cities, the average fare per ride was $30.90, and the average fare per driver was $39.50 (2.4 times higher than in Urban cities). 
 
 2. The second part of the analysis was focused on summarizing the data by date, and specifically by week, for the period of January 1, 2019 through April 29, 2019. Using the pivot() and resample() functions, we were able to create a multiple-line graph that showed the total fares for each week by city type.
 
